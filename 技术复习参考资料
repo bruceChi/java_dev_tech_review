@@ -1,2 +1,33 @@
 netty:
 https://mp.weixin.qq.com/s/YS_RLOd0iVwDcwH6JMyB8g
+
+面试准备：https://mubu.com/doc/y0ctDFPXq0
+
+java基础
+
+数据结构：https://mubu.com/doc/gfHDY59es0
+Java I/O：https://mubu.com/doc/kHyNZO6x20
+Java 多线程：https://mubu.com/doc/5Ksk0dpBgg
+
+jvm部分
+
+JMM java内存模型：https://mubu.com/doc/p5-3_Z3p40
+JVM 运行时数据区：https://mubu.com/doc/wuRvWHEQ60
+JVM 类加载：     https://mubu.com/doc/be9ooxVgSw
+JVM 垃圾回收：   https://mubu.com/doc/tyyIqcMfU0
+JVM 工具：      https://mubu.com/doc/mX4HlPDWs0
+
+juc部分
+
+AQS原理：https://mubu.com/doc/y9NsA7d6g0
+线程池：https://mubu.com/doc/7V1tpnbUSg
+并发容器：https://mubu.com/doc/AY7CGr6w60
+
+mysql：https://mubu.com/doc/lOfx52WVg0
+
+分布式
+
+分布式理论：https://mubu.com/doc/gKsaSfO1o0
+分布式锁：https://mubu.com/doc/obIWuo1f20
+zookeeper：https://mubu.com/doc/bPQtWk0W0w
+hash 算法：https://mubu.com/doc/7YcxqVzrEg
